@@ -1,4 +1,4 @@
-alert("Hello, JS!");
+alert(c"Hello, JS!");
 if (something) {
     let x = 3;
     console.log(x);
